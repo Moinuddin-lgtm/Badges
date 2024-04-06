@@ -1,1 +1,1 @@
-cont pair = "extraordinary";
+console.log("Hello")
